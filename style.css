@@ -13,6 +13,6 @@ p {    color:#214a57;
     margin-bottom: 1em;
 }
 .centered-text {
-    max-width: 600px; /* Устанавливаем максимальную ширину текста */
-    text-align: center; /* Центрируем текст по горизонтали */
+    max-width: 600px; 
+    text-align: center; 
 }
