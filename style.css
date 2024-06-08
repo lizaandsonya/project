@@ -1,0 +1,9 @@
+body {    background-color: #f7e6e1;
+}
+.title {    font-size: 32px;
+     white-space: nowrap;     color:#214a57; 
+}.bold-italic {
+    font-weight: bold;    font-style: italic;
+    color:#214a57 ;}
+p {    color:#214a57; 
+}
