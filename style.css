@@ -8,10 +8,7 @@ body {    background-color: #f7e6e1;
 p {    color:#214a57; 
 }
 .container {
-    text-align: center; /* Выравнивание текста по центру */
-}
-
-.container p {
-    display: block; /* Установка каждого <p> на новой строке */
-    margin-bottom: 1em; /* Отступ между абзацами */
+    text-align: center; 
+    display: block; 
+    margin-bottom: 1em;
 }
