@@ -7,3 +7,9 @@ body {    background-color: #f7e6e1;
     color:#214a57 ;}
 p {    color:#214a57; 
 }
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+}
